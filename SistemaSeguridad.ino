@@ -1,10 +1,10 @@
-/* @file HelloKeypad.pde
+/* @file SistemaSeguridad.pde
 || @version 1.0
-|| @author Alexander Brevig
-|| @contact alexanderbrevig@gmail.com
+|| @author Andres Felipe Ocampo
+|| @author Michael Stevens Diaz Beltran
 ||
 || @description
-|| | Demonstrates the simplest use of the matrix Keypad library.
+|| | Demostracion de un sistema de seguridad.
 || #
 */
 #include <LiquidCrystal.h>
